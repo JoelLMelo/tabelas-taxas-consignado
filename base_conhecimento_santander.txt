@@ -1,1 +1,39 @@
-<Quem Somos>Somos a G+ Educação & Crédito, empresa parceira exclusiva do Banco Santander, especializada em oferecer atendimento seguro e personalizado para servidores públicos ativos, aposentados e pensionistas do INSS.Nossa razão social é Ganho Mais Administradora de Crédito Educativo Ltda.Endereço: Rua Marcos Macedo, 1333, Salas 1214 a 1216, Torre Empresarial II, CEP 60714-030, Aldeota, Fortaleza, Ceará.Nosso telefone de contato é o número utilizado para esta conversa no WhatsApp.E-mail de contato: contato@ganhomais.com.br.</Quem Somos>----<Por que entramos em contato com o cliente>- Atuamos como Correspondente Digital exclusivo do Banco Santander;- Quando o Banco possui uma proposta de crédito pré-aprovado para um cliente, somos informados e autorizados a realizar o contato por ligação, SMS, mensagens no WhatsApp (via template) e RCS;- Todos os nossos canais seguem rigorosamente as normas da Lei Geral de Proteção de Dados (LGPD);- O cliente pode, a qualquer momento, solicitar a interrupção de chamadas ou do envio de mensagens;- Os dados cadastrais utilizados são obtidos a partir da base de dados do Banco Santander. Como correspondentes autorizados, estamos legalmente habilitados a utilizar essas informações.</Por que entramos em contato com o cliente>----<Quem é o nosso cliente>Atendemos servidores públicos ativos ou inativos de Prefeituras Municipais, Governos Estaduais ou do Governo Federal, incluindo servidores de Ministérios, Autarquias e Forças Armadas. Também atendemos aposentados e pensionistas do INSS.Todos os nossos clientes já possuem contratos de empréstimos consignados com o Banco Santander. Alguns também são correntistas do banco.</Quem é o nosso cliente>----<Objetivo>Nosso objetivo é realizar o atendimento inicial ao cliente, apresentar simulações sem compromisso, e fornecer todas as informações necessárias sobre o processo de contratação de novos contratos de crédito consignado, suas garantias, vantagens e benefícios.</Objetivo>----<O que é uma simulação de novo crédito consignado>#Definição:#Crédito consignado é uma modalidade de empréstimo em que as parcelas são descontadas diretamente da folha de pagamento do contratante. Por isso, oferece juros mais baixos, maior facilidade de aprovação e prazos mais longos de pagamento. É voltado principalmente para servidores públicos e trabalhadores com carteira assinada em empresas conveniadas.#Objetivo da oferta:#Apresentar de forma objetiva e transparente os limites de crédito disponível para o cliente e suas respectivas condições de taxas, prazos de pagamento e forma do crédito.</O que é uma simulação de refinanciamento>----<Segurança e confidencialidade>* Não solicitamos dados sensíveis como senhas, comprovantes ou número completo de documentos;* Todo o atendimento é realizado de forma segura, seguindo as políticas de privacidade estabelecidas em parceria com o Banco Santander;* A realização de simulações não exige envio de dados pessoais do cliente.</Segurança e confidencialidade>----<Como o crédito é depositado na conta do cliente>* O Banco Santander realiza o crédito exclusivamente em conta corrente de titularidade do cliente;* O crédito nunca é realizado em contas de terceiros;* Não são realizados depósitos em contas de bancos digitais;* Contas-salário também não são aceitas;* A conta corrente pode ser do Banco Santander ou de outro banco tradicional, desde que esteja em nome do cliente.</Como o crédito é depositado na conta do cliente>----<Norma que regula a atuação dos correspondentes bancários no Brasil>A Resolução CMN nº 4.935, de 29 de julho de 2021, regulamenta a atuação de correspondentes bancários no país, incluindo a oferta de crédito consignado por instituições financeiras por meio de terceiros autorizados.</Norma que regula a atuação dos correspondentes bancários no Brasil>----
+[BLOCO: quem_somos]
+Somos a G+ Educa√ß√£o & Cr√©dito, empresa parceira exclusiva do Banco Santander, especializada em oferecer atendimento seguro e personalizado para servidores p√∫blicos ativos, aposentados e pensionistas do INSS.
+Nossa raz√£o social √© Ganho Mais Administradora de Cr√©dito Educativo Ltda.
+Endere√ßo: Rua Marcos Macedo, 1333, Salas 1214 a 1216, Torre Empresarial II, CEP 60714-030, Aldeota, Fortaleza, Cear√°.
+Nosso telefone de contato √© o n√∫mero utilizado para esta conversa no WhatsApp.
+E-mail de contato: contato@ganhomais.com.br.
+
+[BLOCO: origem_dados]
+Atuamos como Correspondente Digital exclusivo do Banco Santander.
+Quando o Banco possui uma proposta de cr√©dito pr√©-aprovado para um cliente, somos informados e autorizados a realizar o contato por liga√ß√£o, SMS, mensagens no WhatsApp (via template) e RCS.
+Todos os nossos canais seguem rigorosamente as normas da Lei Geral de Prote√ß√£o de Dados (LGPD).
+O cliente pode, a qualquer momento, solicitar a interrup√ß√£o de chamadas ou do envio de mensagens.
+Os dados cadastrais utilizados s√£o obtidos a partir da base de dados do Banco Santander. Como correspondentes autorizados, estamos legalmente habilitados a utilizar essas informa√ß√µes.
+
+[BLOCO: quem_atendemos]
+Atendemos servidores p√∫blicos ativos ou inativos de Prefeituras Municipais, Governos Estaduais ou do Governo Federal, incluindo servidores de Minist√©rios, Autarquias e For√ßas Armadas. Tamb√©m atendemos aposentados e pensionistas do INSS.
+Todos os nossos clientes j√° possuem contratos de empr√©stimos consignados com o Banco Santander. Alguns tamb√©m s√£o correntistas do banco.
+
+[BLOCO: objetivo_atendimento]
+Nosso objetivo √© realizar o atendimento inicial ao cliente, apresentar simula√ß√µes sem compromisso, e fornecer todas as informa√ß√µes necess√°rias sobre o processo de contrata√ß√£o de novos contratos de cr√©dito consignado, suas garantias, vantagens e benef√≠cios.
+
+[BLOCO: o_que_e_simulacao]
+Cr√©dito consignado √© uma modalidade de empr√©stimo em que as parcelas s√£o descontadas diretamente da folha de pagamento do contratante. Por isso, oferece juros mais baixos, maior facilidade de aprova√ß√£o e prazos mais longos de pagamento. √â voltado principalmente para servidores p√∫blicos e trabalhadores com carteira assinada em empresas conveniadas.
+Nosso objetivo √© apresentar de forma objetiva e transparente os limites de cr√©dito dispon√≠vel para o cliente e suas respectivas condi√ß√µes de taxas, prazos de pagamento e forma do cr√©dito.
+
+[BLOCO: seguranca_dados]
+N√£o solicitamos dados sens√≠veis como senhas, comprovantes ou n√∫mero completo de documentos.
+Todo o atendimento √© realizado de forma segura, seguindo as pol√≠ticas de privacidade estabelecidas em parceria com o Banco Santander.
+A realiza√ß√£o de simula√ß√µes n√£o exige envio de dados pessoais do cliente.
+
+[BLOCO: conta_pagamento]
+O Banco Santander realiza o cr√©dito exclusivamente em conta corrente de titularidade do cliente.
+O cr√©dito nunca √© realizado em contas de terceiros.
+N√£o s√£o realizados dep√≥sitos em contas de bancos digitais.
+Contas-sal√°rio tamb√©m n√£o s√£o aceitas.
+A conta corrente pode ser do Banco Santander ou de outro banco tradicional, desde que esteja em nome do cliente.
+
+[BLOCO: regulamentacao]
+A Resolu√ß√£o CMN n¬∫ 4.935, de 29 de julho de 2021, regulamenta a atua√ß√£o de correspondentes banc√°rios no pa√≠s, incluindo a oferta de cr√©dito consignado por institui√ß√µes financeiras por meio de terceiros autorizados.
